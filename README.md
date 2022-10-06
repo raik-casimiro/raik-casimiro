@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raik-casimiro
 - 👀 I’m interested in ... Learning new languages
-- 🌱 I’m currently learning ... Elixir/PHP
+- 🌱 I’m currently learning ... Laravel
 - 💞️ I’m looking to collaborate on ... Big/small web projects
 - 📫 How to reach me ... raikyuri@gmail.com
 
