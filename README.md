@@ -21,4 +21,16 @@ $raikCasimiro = [
 ```
 📈 GitHub Stats
 
-[![Raik's GitHub stats](https://github-readme-stats.vercel.app/api?username=raik-casimiro)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img
+    height="150em"
+    src="https://github-readme-stats.vercel.app/api?username=raik-casimiro&count_private=true&show_icons=true&hide=contribs"
+    alt="Overall Stats"
+  />
+  <!-- Top Languages -->
+  <img
+    height="150em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raik-casimiro&layout=compact"
+    alt="Top Langs"
+  />
+<div/>
