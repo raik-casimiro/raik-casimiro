@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Raik Casimiro — a fullstack developer with a focus on building robust, maintainable applications.  <br>💻 I currently work mainly with PHP and JavaScript/React, but I can work with many other things.<br>🔍 I love solving complex problems.  <br>📈 Always learning, always improving.</p>
+<p align="left">Hi! I'm Raik Casimiro, a passionate fullstack developer who enjoys turning complex challenges into clean, efficient code. I strive to build solutions that are both practical and scalable, with a strong focus on performance and maintainability.</br></br>👨‍💻 Fullstack developer currently working mainly with PHP and JavaScript/React, but I can work with many other things.</br>🔌 Experienced in API integrations and background systems</br>🧹 Clean code enthusiast and problem solver  </br>📚 Always learning and exploring new technologies</br>
+</p>
 
 ###
 
